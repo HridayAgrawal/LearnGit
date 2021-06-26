@@ -8,5 +8,5 @@ int main()
     b=5;
     s= a+b;
 
-    cout<<s;
+    cout<<"sum is"<<s;
 }
